@@ -16,7 +16,6 @@ public class Main {
 //tipo filho, além disso o método deve retornar true no caso de serem meio
 //irmãos ou false no caso de não ser.
 
-
     public static void main(String[] args) {
 
         Filho filho1 = new Filho("Carla", "Carlos");
